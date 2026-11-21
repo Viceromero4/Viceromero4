@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Vicent 👋
 
-<!--
-**Viceromero4/Viceromero4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack Junior (Técnico Superior en DAW) en Valencia.
+Me centro en **PHP / Laravel**, **React** y **bases de datos SQL**, y estoy aprendiendo **Python / FastAPI**.
 
-Here are some ideas to get you started:
+### Proyectos
+- **[FutDataLab](https://github.com/Viceromero4/futdatalab-tfg)**: mi TFG. Aplicación de estadísticas de fútbol con Laravel, React y MySQL, con integración de una API externa y panel de administración.
+- **[Biwenger Money Tracker](https://github.com/Viceromero4/biwenger-money-tracker)**: proyecto personal con Python, FastAPI y PostgreSQL para reconstruir los balances de ligas Biwenger.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experiencia
+Técnico IT en el Ayuntamiento de La Pobla de Vallbona: soporte a usuarios, Active Directory, monitorización con Zabbix, GLPI y un chatbot interno con IA local.
+
+### Stack
+PHP · Laravel · JavaScript · React · MySQL · PostgreSQL · SQL / PL/SQL · Git · Docker · Linux
+
+📫 [LinkedIn](https://www.linkedin.com/in/vicentromerovidagany/) · vice.romero.developer@gmail.com
